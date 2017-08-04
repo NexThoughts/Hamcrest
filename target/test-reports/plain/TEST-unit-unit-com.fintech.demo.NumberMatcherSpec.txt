@@ -1,0 +1,10 @@
+Testsuite: com.fintech.demo.NumberMatcherSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 2.877 sec
+------------- Standard Output ---------------
+--Output from number_close_to_number--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from number_close_to_number--
+------------- ---------------- ---------------
+
+Testcase: number_close_to_number took 2.83 sec

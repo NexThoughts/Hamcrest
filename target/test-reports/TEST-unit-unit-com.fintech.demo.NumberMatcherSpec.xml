@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="flanker" name="com.fintech.demo.NumberMatcherSpec" tests="1" time="2.877" timestamp="2017-08-02T17:59:26">
+  <properties />
+  <testcase classname="com.fintech.demo.NumberMatcherSpec" name="number_close_to_number" time="2.829" />
+  <system-out><![CDATA[--Output from number_close_to_number--
+]]></system-out>
+  <system-err><![CDATA[--Output from number_close_to_number--
+]]></system-err>
+</testsuite>
